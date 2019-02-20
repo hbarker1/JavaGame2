@@ -91,13 +91,8 @@ getDamage();
 
 
 function getDamage(){
-//     prompt("Would you like to attack?")
-// if (prompt.toLowerCase === 'yes' ) {
-    // grantHealth = grantHealth - attack1;
-    // userHealth = userHealth - attack2;
-
-    // let attack1 = Math.floor((Math.random()*6));
-    // let attack2 = Math.floor((Math.random()*6));
+ Math.floor((Math.random()*6));
+ Math.floor((Math.random()*6));
 }
 
 
